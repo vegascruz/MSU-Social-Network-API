@@ -49,7 +49,7 @@
 
   ## Links
   Github Repo - https://github.com/vegascruz/MSU-Social-Network-API
-  Walkthrough Link - 
+  Walkthrough Link - https://drive.google.com/file/d/1SMSdcF2C8Do5c4FcVEoWyVUetXcVNhA8/view
   ## Contributors
   Vegas Cruz
 
