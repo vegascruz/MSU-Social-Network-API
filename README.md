@@ -1,4 +1,4 @@
-  # E-commerce BackEnd
+  # MSU-Social-Network-API
 
   ## Description
   This is an API for a social network app where users can share thoughts, react to friends' thoughts and create a friends list. Kinda like facebook
@@ -58,3 +58,10 @@
   ### Email: vegascruz5@gmail.com
 
   ## Images
+![ServerRunningInTerminal](https://user-images.githubusercontent.com/95984881/210904463-92044127-45c7-4554-8fc4-7589b09d5ab3.png)
+![thoughts_mongodb_data](https://user-images.githubusercontent.com/95984881/210904465-0cc4e005-3827-4dd3-996a-0b212b79810c.png)
+![thoughts_output](https://user-images.githubusercontent.com/95984881/210904467-f8e2ab47-dfbe-41d7-8ab6-e8f103d5e9a1.png)
+![user_output](https://user-images.githubusercontent.com/95984881/210904468-1f840002-1b7f-4edb-bfc2-7a6bde8fe09f.png)
+![users_mongodb_data](https://user-images.githubusercontent.com/95984881/210904469-1e5bf578-c895-4f1b-90a2-91055544a4b9.png)
+![added_user](https://user-images.githubusercontent.com/95984881/210904470-04f26f5b-9ef4-4266-90c7-dacea56a2f27.png)
+
